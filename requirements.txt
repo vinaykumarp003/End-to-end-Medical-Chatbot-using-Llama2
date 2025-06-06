@@ -1,5 +1,5 @@
-ctransformers
-sentence-transformers
+ctransformers             #if we are using langchain then we need this ctransformers
+sentence-transformers     #we need this to use embedings
 pinecone-client
 langchain
 flask
